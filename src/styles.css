@@ -1,13 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-  padding-bottom: 50px;
 
+body {
+  padding-bottom: 50px;
 }
 
-
-
-.main-container{
-
+.main-container {
   margin-top: 20px;
 }
 
@@ -31,7 +28,6 @@ body{
   from {
     opacity: 0;
   }
-
   to {
     opacity: 1;
   }
